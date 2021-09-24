@@ -1,5 +1,6 @@
 # Javascript - for editing the datatable with prescribed values.
-# Source: https://stackoverflow.com/questions/52593539/edit-datatable-in-shiny-with-dropdown-selection-for-factor-variables
+# Sources: https://stackoverflow.com/questions/52593539/edit-datatable-in-shiny-with-dropdown-selection-for-factor-variables
+#          https://stackoverflow.com/questions/60828661/how-to-create-a-dropdown-list-in-a-shiny-table-using-datatable-when-editing-the/60845695#60845695
 
 
 callback <- c(
